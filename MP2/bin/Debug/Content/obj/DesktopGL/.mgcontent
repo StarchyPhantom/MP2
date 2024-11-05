@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Animations/MP2AltMenuBack.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Animations/MP2BigExplode.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Animations/MP2Explode.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Music/MP2SongGameOver.mp3</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Music/MP2SongRudeBuster.mp3</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Music/MP2SongWaiting.mp3</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioButton.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioCountdown.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioCrit.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioKaboom.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioNewAmmo.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioNo.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioNoShots.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioPickUpAmmo.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Sounds/MP2AudioShoot.wav</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Fonts/GameFont.spritefont</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Fonts/SubTitleFont.spritefont</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2DemoBack.jpg</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2EndBack.jpg</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2GameBack.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2MenuBack.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2PauseBack.jpg</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Backgrounds/MP2TransitionBack.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Ammo.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Continue.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Crit.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Exit.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Five.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Four.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Instructions.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Logo.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2One.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Start.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Sticky.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Three.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Title.png</File>
+    <File>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Images/Sprites/MP2Two.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

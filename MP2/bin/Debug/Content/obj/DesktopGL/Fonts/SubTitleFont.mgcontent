@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Fonts/SubTitleFont.spritefont</SourceFile>
+  <SourceTime>2022-04-13T14:08:48-04:00</SourceTime>
+  <DestFile>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/bin/DesktopGL/Fonts/SubTitleFont.xnb</DestFile>
+  <DestTime>2022-04-16T17:53:06-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

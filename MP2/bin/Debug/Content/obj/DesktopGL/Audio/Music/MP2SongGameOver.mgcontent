@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/Audio/Music/MP2SongGameOver.mp3</SourceFile>
+  <SourceTime>2022-04-16T14:02:26-04:00</SourceTime>
+  <DestFile>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/bin/DesktopGL/Audio/Music/MP2SongGameOver.xnb</DestFile>
+  <DestTime>2022-04-17T17:01:10-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/ICS3/Assignments/Portfolio/MP2/MP2/bin/Debug/Content/bin/DesktopGL/Audio/Music/MP2SongGameOver.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
